@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ChaseBright",
+			"Path": "D:\\Code\\UnrealEngine\\ChaseBright\\Source\\ChaseBright.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ChaseBrightEditor",
+			"Path": "D:\\Code\\UnrealEngine\\ChaseBright\\Source\\ChaseBrightEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
